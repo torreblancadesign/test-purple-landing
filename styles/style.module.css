@@ -1,0 +1,31 @@
+/* Styling for Navigation Bar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #5a23c8;
+  padding: 10px;
+}
+
+.navbar h1 {
+  font-weight: bold;
+  color: white;
+}
+
+.navbar a {
+  color: white;
+  margin-right: 20px;
+}
+
+/* Styling for Hero Title */
+.hero {
+  color: white;
+  font-size: 48px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+/* Styling for rest of website */
+body {
+  background-color: #2c2c2c;
+}
