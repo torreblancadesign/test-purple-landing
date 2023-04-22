@@ -21,7 +21,7 @@ const Component = () => {
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu metus a massa ultrices ullamcorper vel id elit. Praesent bibendum purus eget dapibus iaculis. </p>
       </div>
       <footer className={styles.footer}>
-        <p>Copyright &copy; 2021 Test Landing</p>
+        <p>Copyright &copy; 2023 Test Landing</p>
       </footer>
     </div>
   );
